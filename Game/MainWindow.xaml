@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:sig="clr-namespace:SIG"
         mc:Ignorable="d"
-        Title="Space Invaders WPF" Height="800">
+        Title="negri zkurveni" Height="800">
     <Grid Background="Black">
         <sig:GameControl x:Name="GameControl" Width="640" Height="480" />
     </Grid>
